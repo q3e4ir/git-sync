@@ -9,6 +9,7 @@ read -p "apply ssh-key" apply
 cd git-sync
 
 git init
+git remote rm origin
 git remote add origin git@github.com:q3e4ir/git-sync.git
 git add .
 git commit -m "commit"

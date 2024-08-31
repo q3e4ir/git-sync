@@ -59,7 +59,8 @@
 
   programs.bash.shellAliases = {
   commit = "cd ~/git-sync; git add .; git commit -m 'commit'; git push -u origin main";
-  login = "ssh-keygen -t rsa -b 4096 -P '' -f /home/q3e4ir/.ssh/id_rsa; cat ~/.ssh/id_rsa.pub; echo 'https://github.com/settings/ssh/new'; read -p 'apply ssh-key' apply; cd git-sync; git init; git remote rm origin; git remote add origin git@github.com:q3e4ir/git-sync.git";
+  sshlog = "ssh-keygen -t rsa -b 4096 -P '' -f /home/q3e4ir/.ssh/id_rsa; cat ~/.ssh/id_rsa.pub; echo 'https://github.com/settings/ssh/new'; read -p 'apply ssh-key' apply; cd git-sync; git init; git remote rm origin; git remote add origin git@github.com:q3e4ir/git-sync.git";
+  nixreb = "sudo nixos-rebuild switch";
   };
   
   environment.systemPackages = with pkgs; [

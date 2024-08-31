@@ -1,8 +1,0 @@
-{
-    "window.menuBarVisibility": "toggle",
-    "workbench.colorTheme": "One Dark Pro Darker",
-    "editor.minimap.enabled": false,
-    "explorer.confirmDelete": false,
-    "explorer.confirmDragAndDrop": false,
-    "files.autoSave": "afterDelay"
-}

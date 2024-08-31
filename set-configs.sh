@@ -9,3 +9,6 @@ sudo nixos-rebuild switch
 
 #vscode
 sudo cp -r /home/q3e4ir/dotfiles/vscodium/settings.json /home/q3e4ir/.config/VSCodium/User/
+codium --install-extension catppuccin.catppuccin-vsc
+codium --install-extension catppuccin.catppuccin-vsc-icons
+codium --install-extension jnoortheen.nix-ide

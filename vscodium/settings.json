@@ -1,8 +1,9 @@
 {
     "window.menuBarVisibility": "toggle",
-    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.colorTheme": "Catppuccin Mocha",
     "editor.minimap.enabled": false,
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "catppuccin-mocha"
 }

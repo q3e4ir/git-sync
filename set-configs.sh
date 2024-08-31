@@ -9,4 +9,3 @@ sudo nixos-rebuild switch
 
 #vscode
 sudo cp -r /home/q3e4ir/dotfiles/vscodium/settings.json /home/q3e4ir/.config/VSCodium/User/
-sudo cp -r /home/q3e4ir/dotfiles/vscodium/extensions.json /home/q3e4ir/.vscode-oss/extensions/

@@ -1,10 +1,16 @@
 #!/usr/bin/env bash
 
-read -p "github login: " login
-read -p "gmail: " gmail
-
-git config --global user.name
-git config --global user.email
-
-ssh-keygen -t rsa -b 4096 -C $gmail
+ssh-keygen -t rsa -b 4096 -C durychyaroslav@gmail.com
 cat ~/.ssh/id_rsa.pub
+
+echo "https://github.com/settings/ssh/new"
+read -p "apply ssh-key" apply
+
+cd git-sync
+
+git init
+git remote add origin git@github.com:q3e4ir/git-sync.git
+git add .
+git commit -m ""
+git push -u origin main
+

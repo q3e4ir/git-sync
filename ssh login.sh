@@ -11,6 +11,6 @@ cd git-sync
 git init
 git remote add origin git@github.com:q3e4ir/git-sync.git
 git add .
-git commit -m ""
+git commit -m "commit"
 git push -u origin main
 

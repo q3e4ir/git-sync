@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-ssh-keygen -t rsa -b 4096 -P passphrase -f /home/q3e4ir/.ssh/id_rsa
+ssh-keygen -t rsa -b 4096 -P passphrase 
 cat ~/.ssh/id_rsa.pub
 
 echo "https://github.com/settings/ssh/new"

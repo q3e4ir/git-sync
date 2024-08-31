@@ -4,6 +4,6 @@
   imports =
     [
       ./hardware-configuration.nix
-      /home/q3e4ir/git-sync/nixos/configuration.nix
+      /home/q3e4ir/dotfiles/nixos/configuration.nix
     ];
 }

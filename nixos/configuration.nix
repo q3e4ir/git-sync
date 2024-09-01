@@ -80,11 +80,19 @@
     kitty
     vscodium
     telegram-desktop
+
+    #UTILS
+    waybar
+    hyprpaper
+    wofi
+    pulseaudio
+    pavucontrol
+    pamixer
+    networkmanagerapplet
+    gnome.gnome-tweaks
   
   ];
-  services.xserver.enable = true;
-  services.xserver.displayManager.gdm.enable = true;
-  services.xserver.desktopManager.gnome.enable = true;
+  programs.hyprland.enable = true;
 
   system.stateVersion = "24.05";
 }

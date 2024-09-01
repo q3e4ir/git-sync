@@ -61,6 +61,9 @@
   sshlog = "/home/q3e4ir/dotfiles/sshlog.sh";
   dotcommit = "/home/q3e4ir/dotfiles/dotcommit.sh";
   dotset = "/home/q3e4ir/dotfiles/dotset.sh";
+  dot = "/home/q3e4ir/dotfiles/dotset.sh; /home/q3e4ir/dotfiles/dotcommit.sh";
+  
+  c = "clear";
 
   vs-extlist = "codium --list-extensions | xargs -L 1 echo codium --install-extension";
   };

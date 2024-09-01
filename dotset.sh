@@ -16,3 +16,6 @@ codium --install-extension jnoortheen.nix-ide
 
 #kitty
 sudo cp -r /home/q3e4ir/dotfiles/config-links/kitty.conf /home/q3e4ir/.config/kitty/
+
+#neofetch
+sudo cp -r /home/q3e4ir/dotfiles/config-links/config.conf /home/q3e4ir/.config/neofetch/

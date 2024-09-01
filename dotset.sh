@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 
-chmod +x /home/q3e4ir/dotfiles/set-configs.sh
-chmod +x /home/q3e4ir/dotfiles/commit.sh
+chmod +x /home/q3e4ir/dotfiles/dotset.sh
+chmod +x /home/q3e4ir/dotfiles/dotcommit.sh
+chmod +x /home/q3e4ir/dotfiles/sshlog.sh
 
 #nixos
 sudo cp -r /home/q3e4ir/dotfiles/config-links/configuration.nix /etc/nixos/

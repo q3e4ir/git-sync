@@ -75,7 +75,6 @@
     polkit
     polkit_gnome
     #lxsession
-
     #Software
     google-chrome
     kitty

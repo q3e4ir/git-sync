@@ -13,3 +13,6 @@ sudo cp -r /home/q3e4ir/dotfiles/vscodium/settings.json /home/q3e4ir/.config/VSC
 codium --install-extension catppuccin.catppuccin-vsc
 codium --install-extension catppuccin.catppuccin-vsc-icons
 codium --install-extension jnoortheen.nix-ide
+
+#kitty
+sudo cp -r /home/q3e4ir/dotfiles/config-links/kitty.conf /home/q3e4ir/.config/kitty/

@@ -1,9 +1,12 @@
 {
-    "window.menuBarVisibility": "toggle",
     "workbench.colorTheme": "Catppuccin Mocha",
     "editor.minimap.enabled": false,
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
     "files.autoSave": "afterDelay",
-    "workbench.iconTheme": "catppuccin-mocha"
+    "workbench.iconTheme": "catppuccin-mocha",
+    "window.menuBarVisibility": "toggle",
+    "workbench.activityBar.location": "bottom",
+    "workbench.layoutControl.enabled": false,
+    "window.commandCenter": false
 }

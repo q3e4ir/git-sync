@@ -19,3 +19,6 @@ sudo cp -r /home/q3e4ir/dotfiles/config-links/kitty.conf /home/q3e4ir/.config/ki
 
 #neofetch
 sudo cp -r /home/q3e4ir/dotfiles/neofetch/config.conf /home/q3e4ir/.config/neofetch/
+
+#hyprland
+sudo cp -r /home/q3e4ir/dotfiles/config-links/hyprland.conf /home/q3e4ir/.config/hypr/

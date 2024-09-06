@@ -8,5 +8,6 @@
     "window.menuBarVisibility": "toggle",
     "workbench.activityBar.location": "bottom",
     "workbench.layoutControl.enabled": false,
-    "window.commandCenter": false
+    "window.commandCenter": false,
+    "css.validate": false
 }

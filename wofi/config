@@ -1,0 +1,14 @@
+show=drun
+width=50%
+height=40%
+location=center
+always_parse_args=true
+allow_markup=false
+show_all=true
+term=kitty
+hide_scroll=false
+print_command=true
+insensitive=true
+prompt=drun
+columns=3
+allow_images=false

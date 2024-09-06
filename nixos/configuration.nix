@@ -61,7 +61,7 @@
   sshlog = "/home/q3e4ir/dotfiles/sshlog.sh";
   dotcommit = "/home/q3e4ir/dotfiles/dotcommit.sh";
   dotset = "/home/q3e4ir/dotfiles/dotset.sh";
-  dot = "/home/q3e4ir/dotfiles/dotset.sh; /home/q3e4ir/dotfiles/dotcommit.sh";
+  dot = "/home/q3e4ir/dotfiles/dotcommit.sh; /home/q3e4ir/dotfiles/dotset.sh";
   
   c = "clear";
 

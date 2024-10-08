@@ -25,3 +25,6 @@ sudo cp -r /home/q3e4ir/dotfiles/config-links/hyprland.conf /home/q3e4ir/.config
 
 #wofi
 sudo cp -r /home/q3e4ir/dotfiles/wofi/ /home/q3e4ir/.config/
+
+#waybar
+sudo cp -r /home/q3e4ir/dotfiles/waybar/ /home/q3e4ir/.config/

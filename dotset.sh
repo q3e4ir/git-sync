@@ -23,6 +23,7 @@ sudo cp -r /home/q3e4ir/dotfiles/neofetch/config.conf /home/q3e4ir/.config/neofe
 #hyprland
 sudo cp -r /home/q3e4ir/dotfiles/config-links/hyprland.conf /home/q3e4ir/.config/hypr/
 
+sudo cp -r /home/q3e4ir/dotfiles/hypr/hyprpaper.conf /home/q3e4ir/.config/hypr/
 #wofi
 sudo cp -r /home/q3e4ir/dotfiles/wofi/ /home/q3e4ir/.config/
 

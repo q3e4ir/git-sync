@@ -5,7 +5,7 @@ chmod +x /home/q3e4ir/dotfiles/dotcommit.sh
 chmod +x /home/q3e4ir/dotfiles/sshlog.sh
 
 #nixos
-sudo cp -r /home/q3e4ir/dotfiles/config-links/configuration.nix /etc/nixos/
+sudo cp -r /home/q3e4ir/dotfiles/configuration.nix /etc/nixos/
 sudo nixos-rebuild switch
 
 #vscode
